@@ -1,0 +1,7 @@
+*.pyc
+*.fcstd1
+*.FcStd1
+
+
+# Work in Progress
+temp/
