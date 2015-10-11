@@ -1,7 +1,12 @@
 *.pyc
 *.fcstd1
 *.FcStd1
+*.lxs
+*.pov
 
 
 # Work in Progress
 temp/
+Assembly/Core(XY).step
+
+
